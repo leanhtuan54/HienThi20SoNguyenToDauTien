@@ -1,0 +1,14 @@
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.exe
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.deps.json
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.runtimeconfig.json
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.dll
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\bin\Debug\net8.0\HienThi20SoNguyenToDauTien.pdb
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.AssemblyInfoInputs.cache
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.AssemblyInfo.cs
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.dll
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\refint\HienThi20SoNguyenToDauTien.dll
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.pdb
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\HienThi20SoNguyenToDauTien.genruntimeconfig.cache
+D:\WorkSpace\C#_EX\7\HienThi20SoNguyenToDauTien\obj\Debug\net8.0\ref\HienThi20SoNguyenToDauTien.dll
